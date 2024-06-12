@@ -6,7 +6,9 @@ Objective: Pizza Sales Data Analysis And Optimization
 The main objective of this project is to analyse pizza sales data to gain insights into sales performance, identify trends, and optimize business strategies. By understanding sales patterns and customer preferences, we aim to enhance operational efficiency, increase revenue, and improve product offerings. 
 
 For analysing the data, various factors affecting the business(i.e.) should be listed out.
-In this case study, there are 12 factors mentioning the order details, category, types, price, quantity etc.
+In this case study, 
+There are 12 factors mentioning the order details, category, types, price, quantity etc.
+
 The key objectives include:
 
 1. Data Management and Integration:
